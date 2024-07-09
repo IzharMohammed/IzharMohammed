@@ -4,13 +4,13 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" >
 
 
-- 🌱 I’m currently learning **React , Express**
+- 🌱 I’m currently learning ** Express**
 
-- 💬 Ask me about **Html , css , java script , react**
+- 💬 Ask me about **Html , css , java script , react , GraphQL , Redux , Redux ToolKit , React Query**
 
 - 📫 How to reach me **izharmohammed21@gmail.com**
 
-- ⚡ Fun fact **Like to communicate with people**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
