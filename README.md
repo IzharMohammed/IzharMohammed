@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" >
 
 
-- 🌱 I’m currently learning ** Express**
+- 🌱 I’m currently learning ** Full Stack Development **
 
-- 💬 Ask me about **Html , css , java script , react , GraphQL , Redux , Redux ToolKit , React Query**
+- 💬 Ask me about **Html , css , java script , react , GraphQL , Redux , Redux ToolKit , React Query , Next JS**
 
 - 📫 How to reach me **izharmohammed21@gmail.com**
 
