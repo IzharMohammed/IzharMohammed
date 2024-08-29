@@ -1,12 +1,12 @@
 ![MasterHead](https://memprize.com/wp-content/uploads/2022/07/Everything-You-Need-To-Know-About-Front-End-Development-2.jpg)
 <h1 align="center">Hi 👋, I'm Mohammed Izhar</h1>
-<h3 align="center">Frontend developer</h3>
+<h3 align="center">Full Stack Web Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" >
 
 
-- 🌱 I’m currently learning ** Full Stack Development **
+- 🌱 I’m currently diving deep into web development
 
-- 💬 Ask me about **Html , css , java script , react , GraphQL , Redux , Redux ToolKit , React Query , Next JS**
+- 💬 Ask me about **Html , css , java script , react , GraphQL , Redux , Redux ToolKit , React Query , Next JS , Node JS , Express JS , Hono , Java**
 
 - 📫 How to reach me **izharmohammed21@gmail.com**
 
