@@ -1,7 +1,8 @@
 ![MasterHead](https://memprize.com/wp-content/uploads/2022/07/Everything-You-Need-To-Know-About-Front-End-Development-2.jpg)
 <h1 align="center">Hi 👋, I'm Mohammed Izhar</h1>
 <h3 align="center">Full Stack Web Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" >
+<img align="right" alt="Coding" width="400" src="![programming-web-banner-best-languages-260nw-2392481249](https://github.com/user-attachments/assets/f4c85c03-fcff-47d4-b828-a089443a3b46)
+" >
 
 
 - 🌱 I’m currently diving deep into web development
